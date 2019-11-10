@@ -24,7 +24,7 @@ img: /img/hanging_bridge.jpg
 </div>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/sunset.jpg" alt="" title="hanging bridge"/>
+	<img src="{{ site.baseurl }}/img/sunset.jpg" alt="" title="hanging bridge"/>
 </div>
 
 <div class="img_row">
