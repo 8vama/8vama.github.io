@@ -7,6 +7,34 @@ img: /img/hanging_bridge.jpg
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/hanging_bridge.jpg" alt="" title="hanging bridge"/>
 </div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/waterfall.jpg" alt="" title="waterfall"/>
+</div>
+<div class="col three caption">
+	One of the greenest place I have been and it's currently my desktop photo. #selfcare
+</div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/waterfall1.jpg" alt="" title="here's me not ready to dive in"/>
+</div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/alan_bridge.jpg" alt="" title="hanging bridge"/>
+</div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/sunset.jpg" alt="" title="hanging bridge"/>
+</div>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/frog.jpg" alt="" title="hanging bridge"/>
+</div>
+<div class="col three caption">
+	Until next time!
+</div>
+
+
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
