@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/12.jpg
+title: Costa Rica
+description: my Costa Rica trip in December 2018
+img: /img/hanging_bridge.jpg
 ---
-
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/hanging_bridge.jpg" alt="" title="hanging bridge"/>
+</div>
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
